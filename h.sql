@@ -1,0 +1,20 @@
+
+
+
+
+SELECT * FROM `TBL_MS_USR` ;
+
+
+
+
+
+
+
+
+CALL USR_PANTA('JUAN','PERSONAS');
+
+
+
+
+
+
